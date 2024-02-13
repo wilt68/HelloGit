@@ -5,7 +5,7 @@ Texto adicional. Nueva modificacion.
 Ultima modificacion diff / diff --staged
 
 linea1
-linea2
+linea2 modificamos desde la rama login
 linea3
 linea4
 linea5
